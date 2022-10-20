@@ -1,0 +1,26 @@
+possible error
+
+cli handler
+- unkown command
+- invalid payload
+- error from usecase
+
+repository / usecase
+create
+    > duplicate id
+    > unkown
+    
+update
+    > not found id
+    > unkown
+
+delete
+    > not found id
+    > unkown
+
+get one
+    > not found id
+    > unkown
+
+get many
+    > unkown

@@ -1,0 +1,13 @@
+mkdir cmd && \
+mkdir config && \
+mkdir internal && \
+mkdir pkg && \
+touch Makefile && \
+cd internal && \
+mkdir config && \
+mkdir constants && \
+mkdir entity && \
+mkdir clihandler && \
+mkdir model && \
+mkdir repository && \
+mkdir usecase
