@@ -44,7 +44,7 @@ func (r *AnswersRepositoryMemory) convertError(err error) *rapperror.AppError {
 
 	return rapperror.ErrInternalServerError(
 		"",
-		"something went wrong on question",
+		"something went wrong on answer",
 		"",
 		nil,
 	)
