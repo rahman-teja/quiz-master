@@ -40,7 +40,7 @@ func (c QuestionGetOneCLIHandler) Handler(params ...string) {
 }
 
 func (c QuestionGetOneCLIHandler) Description() string {
-	return "Shows a list"
+	return "Shows a question"
 }
 
 func (c QuestionGetOneCLIHandler) Example() string {
